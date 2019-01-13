@@ -805,6 +805,10 @@ body {
     color: #ffffff;
     margin: 20px 0 0;
 }
+.footer a {
+  color: #ffffff;
+}
+
 
 /*--------------------------------------------------
 [17. Start Page Loading]
